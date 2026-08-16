@@ -1,0 +1,6 @@
+{
+  "name": "hivedesk",
+  "version": "0.2.0",
+  "description": "HiveDesk ERPNext + HR + CRM MCP",
+  "endpoint": "/api/mcp"
+}
